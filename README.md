@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @goldenp1nk
-- 👀 I’m interested in arduino project
-- 🌱 I’m currently learning arduino for security building
-- 💞️ I’m looking to collaborate on arduino project
+- 👀 I’m interested in amateur radio project
+- 🌱 I’m currently happy
+- 💞️ I’m looking to collaborate on amateur radio project
 
 <!---
 goldenp1nk/goldenp1nk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
